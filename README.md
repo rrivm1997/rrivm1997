@@ -7,10 +7,11 @@
 
 <h2>📜 Certifications</h2>
 
-- [CompTIA Security+]
-- [CompTIA A+]
-- [TIL 4 Foundation]
-  
+- [CompTIA Security+](https://imgur.com/Cl6PpnJ)
+- [CompTIA A+](https://imgur.com/BH59XqD)
+- [TIL 4 Foundation](https://imgur.com/0TdHMFp)
+
+
 <h2>📺 Helpful YouTube Videos To Start Your Career</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)

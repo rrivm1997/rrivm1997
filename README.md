@@ -9,7 +9,7 @@
 
 - [CompTIA Security+](https://imgur.com/Cl6PpnJ)
 - [CompTIA A+](https://imgur.com/BH59XqD)
-- [TIL 4 Foundation](https://imgur.com/0TdHMFp)
+- [ITIL 4 Foundation](https://imgur.com/0TdHMFp)
 
 
 <h2>📺 Helpful YouTube Videos To Start Your Career</h2>

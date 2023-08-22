@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home lab]
+- [Navigating Linux Commands](https://github.com/rrivm1997/Linux-nav)
 - [Hello World!]
 <h2>📜 Certifications</h2>
 

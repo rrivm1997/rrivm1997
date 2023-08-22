@@ -3,8 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Navigating Linux Commands](https://github.com/rrivm1997/Linux-nav)
-- [Hello World!]
-<h2>📜 Certifications</h2>
+- [Navigating Windows Commands](https://github.com/rrivm1997/Windows-nav)
+
+- <h2>📜 Certifications</h2>
 
 - [CompTIA Security+](https://imgur.com/Cl6PpnJ)
 - [CompTIA A+](https://imgur.com/BH59XqD)

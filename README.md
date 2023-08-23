@@ -4,7 +4,7 @@
 
 - [Navigating Linux Commands](https://github.com/rrivm1997/Linux-nav)
 - [Navigating Windows Commands](https://github.com/rrivm1997/Windows-nav)
-- [Nmap Knowledgebase](https://github.com/rrivm1997/Nmap-Knowledge-base.git))
+- [Nmap Knowledgebase](https://github.com/rrivm1997/Nmap-Knowledge-base.git)
 - [Active Directory Home Lab INW]
 
 <h2>📜 Certifications</h2>

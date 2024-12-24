@@ -2,7 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/rrivm1997/Active-Directory-Home-Lab)
+-<b> Labs</b>
+  - [Active Directory Home Lab](https://github.com/rrivm1997/Active-Directory-Home-Lab)
+
+-<b>Poweshell<b>
+  -[Active Directory Bulk User Creation]()
 
 <h2>📚 Knowledge Base:</h2>
 

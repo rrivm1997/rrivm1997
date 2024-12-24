@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Nessus Vulnerability Management Training](https://github.com/rrivm1997/nessus-vm-trng)
 - [Active Directory Home Lab INW]
 
 <h2>📚 Knowledge Base:</h2>

@@ -13,7 +13,7 @@
 <h2>📜 Certifications</h2>
 
 - [CompTIA CySA+](https://imgur.com/a/5MVTakF)
-- [CompTIA Security+](https://imgur.com/Cl6PpnJ)
+- [CompTIA Security+](https://imgur.com/a/FarGsOH)
 - [CompTIA Network+](https://imgur.com/a/XV2K9m1)
 - [CompTIA A+](https://imgur.com/BH59XqD)
 - [ITIL 4 Foundation](https://imgur.com/0TdHMFp)

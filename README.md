@@ -19,10 +19,8 @@
 - [ITIL 4 Foundation](https://imgur.com/0TdHMFp)
 
 
-<h2>📺 Helpful YouTube Videos To Start Your Career</h2>
+<h2>📺 Future Projects</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 

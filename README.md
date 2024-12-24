@@ -6,7 +6,7 @@
   - [Active Directory Home Lab](https://github.com/rrivm1997/Active-Directory-Home-Lab)
 
 -<b>Poweshell<b>
-  -[Active Directory Bulk User Creation]()
+  -[Active Directory Bulk User Creation](https://github.com/rrivm1997/AD_PS_USRS)
 
 <h2>📚 Knowledge Base:</h2>
 

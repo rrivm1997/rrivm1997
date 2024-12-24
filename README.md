@@ -8,6 +8,9 @@
 -<b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/rrivm1997/AD_PS_USRS)
 
+-<b>Python</b>
+  -[Password Generator](https://github.com/rrivm1997/Password_Generator)
+  
 <h2>📚 Knowledge Base:</h2>
 
 - [Navigating Linux Commands](https://github.com/rrivm1997/Linux-nav)

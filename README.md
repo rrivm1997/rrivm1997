@@ -2,15 +2,19 @@
 
 <h2>👨‍💻 Projects:</h2>
 
--<b> Labs</b>
+<b>Cisco Networks</b>
+  - [Small Company Network - Cisco Packet Tracer](https://github.com/rrivm1997/Company_Network)
+  - [Basic Network Configuration](https://github.com/rrivm1997/Network_Configuration)
+
+<b>Labs</b>
   - [Active Directory Home Lab](https://github.com/rrivm1997/Active-Directory-Home-Lab)
   - [Nessus Vulnerability Management](https://github.com/rrivm1997/Nessus_Vulnerability_Management)
   - [Cisco Home Network Configuration](https://github.com/rrivm1997/Network_Configuration)
 
--<b>PowerShell</b>
+<b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/rrivm1997/AD_PS_USRS)
 
--<b>Python</b>
+<b>Python</b>
   - [Password Generator](https://github.com/rrivm1997/Password_Generator)
 
 <h2>📜 Certifications</h2>

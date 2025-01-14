@@ -1,5 +1,13 @@
 <h1>Hello, I'm Rene! <br/><a href="https://www.linkedin.com/in/rrivm1997/">Cybersecurity</a>
 
+<h2>📜 Certifications</h2>
+
+- [CompTIA CySA+](https://imgur.com/a/5MVTakF)
+- [CompTIA Security+](https://imgur.com/a/FarGsOH)
+- [CompTIA Network+](https://imgur.com/a/XV2K9m1)
+- [CompTIA A+](https://imgur.com/BH59XqD)
+- [ITIL 4 Foundation](https://imgur.com/0TdHMFp)
+
 <h2>👨‍💻 Projects:</h2>
 
 <b>Cisco Networks</b>
@@ -17,20 +25,7 @@
 <b>Python</b>
   - [Password Generator](https://github.com/rrivm1997/Password_Generator)
 
-<h2>📜 Certifications</h2>
-
-- [CompTIA CySA+](https://imgur.com/a/5MVTakF)
-- [CompTIA Security+](https://imgur.com/a/FarGsOH)
-- [CompTIA Network+](https://imgur.com/a/XV2K9m1)
-- [CompTIA A+](https://imgur.com/BH59XqD)
-- [ITIL 4 Foundation](https://imgur.com/0TdHMFp)
   
-<h2>📚 Knowledge Base:</h2>
-
-- [Navigating Linux Commands](https://github.com/rrivm1997/Linux-nav)
-- [Navigating Windows Commands](https://github.com/rrivm1997/Windows-nav)
-- [Nmap Knowledge base](https://github.com/rrivm1997/Nmap-Knowledge-base.git)
-
 <h2>📺 Future Projects</h2>
 
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)

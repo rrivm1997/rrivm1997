@@ -17,7 +17,6 @@
 <b>Labs</b>
   - [Active Directory Home Lab](https://github.com/rrivm1997/Active-Directory-Home-Lab)
   - [Nessus Vulnerability Management](https://github.com/rrivm1997/Nessus_Vulnerability_Management)
-  - [Cisco Home Network Configuration](https://github.com/rrivm1997/Network_Configuration)
 
 <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/rrivm1997/AD_PS_USRS)

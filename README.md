@@ -1,52 +1,41 @@
-<h1>Hello, I'm Rene! <br/><a href="https://www.linkedin.com/in/rrivm1997/">Cybersecurity</a>
+# About Me
 
-<h2>📜 Certifications</h2>
+Hello! 👋 My name is **Rene**, and I’m a passionate **security enthusiast** and **CTF player**. I enjoy solving challenges, exploring new vulnerabilities, and learning new techniques to improve my skills. 
 
-- [CompTIA CySA+](https://imgur.com/a/5MVTakF)
-- [CompTIA Security+](https://imgur.com/a/FarGsOH)
-- [CompTIA Network+](https://imgur.com/a/XV2K9m1)
-- [CompTIA A+](https://imgur.com/BH59XqD)
-- [ITIL 4 Foundation](https://imgur.com/0TdHMFp)
+## 🚀 What I Do
+- **CTF Challenges**: I actively participate in **Capture the Flag** competitions like Hack The Box and other platforms.
+- **Penetration Testing**: I enjoy finding vulnerabilities in websites and systems and then using my knowledge to help organizations improve their security posture.
+- **Learning**: I'm constantly learning new things about **cybersecurity**, **networking**, and **programming**.
 
-<h2>👨‍💻 Projects:</h2>
+## 📚 Certifications
+- **CySA+**: CompTIA Cybersecurity Analyst
+- **Security+**: CompTIA Security+
+- **Network+**: CompTIA Network+
+- **A+**: CompTIA A+
+- **SSCP**: SSCP Systems Security Certified Practitioner (in progress)
+- **Linux Essentials**: Linux Professional Institue (in progress)
 
-<b>Cisco Networks</b>
-  - [Small Company Network - Cisco Packet Tracer](https://github.com/rrivm1997/Company_Network)
-  - [Basic Network Configuration](https://github.com/rrivm1997/Network_Configuration)
+- ## 🔧 Tools & Technologies
+Here are some of the tools and technologies I frequently use:
 
-<b>Labs</b>
+- **Languages**: Python, Bash
+- **Tools**: Burp Suite, Nmap, Metasploit, Wireshark, Hydra, Nikto, Gobuster
+- **Operating Systems**: Kali Linux, Parrot OS, Ubuntu, Windows
+
+## 📬 Contact Me
+If you'd like to reach out, feel free to contact me via:
+- Email: [rriveram1997@outlook.com](mailto:rriveram1997@outlook.com)
+- LinkedIn: [https://www.linkedin.com/in/rrivm1997](https://www.linkedin.com/in/rrivm1997)
+
+## 📜 Some Fun Facts
+- I’m always up for learning new tricks in **reverse engineering** and **exploitation**.
+- I love working on **web security** and automating tasks with **scripts**.
+- When I’m not hacking, I enjoy **gaming**, **basketball**, and **traveling**.
+
+## 🔗 My Projects
+Check out some of my projects and write-ups here:
   - [Active Directory Home Lab](https://github.com/rrivm1997/Active-Directory-Home-Lab)
   - [Nessus Vulnerability Management](https://github.com/rrivm1997/Nessus_Vulnerability_Management)
+  - [Small Company Network - Cisco Packet Tracer](https://github.com/rrivm1997/Company_Network)
 
-<b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/rrivm1997/AD_PS_USRS)
-
-<b>Python</b>
-  - [Password Generator](https://github.com/rrivm1997/Password_Generator)
-
-  
-<h2>📺 Future Projects</h2>
-
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="rrivm1997| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://www.linkedin.com/in/rrivm1997
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my page! Let’s connect and learn together. 👨‍💻

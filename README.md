@@ -1,4 +1,4 @@
-<h1>Hello, I'm Rene! <br/><a href="https://www.linkedin.com/in/rrivm1997/">Cybersecurity Practitioner</a>
+<h1>Hello, I'm Rene! <br/><a href="https://www.linkedin.com/in/rrivm1997/">Cybersecurity</a>
 
 <h2>👨‍💻 Projects:</h2>
 

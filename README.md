@@ -32,12 +32,6 @@ If you'd like to reach out, feel free to contact me via:
 - I love working on **web security** and automating tasks with **scripts**.
 - When I’m not hacking, I enjoy **gaming**, **basketball**, and **traveling**.
 
-## 🔗 My Projects
-Check out some of my projects and write-ups here:
-  - [Active Directory Home Lab](https://github.com/rrivm1997/Active-Directory-Home-Lab)
-  - [Nessus Vulnerability Management](https://github.com/rrivm1997/Nessus_Vulnerability_Management)
-  - [Small Company Network - Cisco Packet Tracer](https://github.com/rrivm1997/Company_Network)
-
 Thanks for visiting my page! Let’s connect and learn together. 👨‍💻
 
 # 💻 Tech Stack:
